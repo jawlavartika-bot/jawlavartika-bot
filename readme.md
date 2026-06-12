@@ -40,3 +40,4 @@ I work at the intersection of **data analytics**, **AI workflows**, and **embedd
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vartika-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vartika-jawla-874a4a280)
+[![X](https://img.shields.io/badge/X-@JawlaVartika-black?style=flat&logo=x)](https://x.com/JawlaVartika)
